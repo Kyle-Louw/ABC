@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Garlic Bread",
+    "description": "Crispy bread with garlic butter",
+    "category": "Starters",
+    "price": 30
+  },
+  {
+    "id": 2,
+    "name": "Steak",
+    "description": "Grilled sirloin steak with chips",
+    "category": "Mains",
+    "price": 150
+  }
+]
